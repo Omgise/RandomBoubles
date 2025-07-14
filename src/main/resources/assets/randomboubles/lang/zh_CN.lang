@@ -62,6 +62,8 @@ item.combinationRing.7.discount=5
 item.combinationRing.8.name=符文锻造神秘使戒指
 item.combinationRing.8.discount=7
 
+item.combinationRing.cure=提供凋零防护
+
 #Thaumcraft Research
 tc.research_category.RBRINGS=随机饰品研究
 
